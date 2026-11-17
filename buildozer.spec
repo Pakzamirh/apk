@@ -18,8 +18,8 @@ source.include_patterns = assets/*,images/*.png
 # (str) Application versioning
 version = 1.0
 
-# (list) Application requirements
-requirements = python3,kivy,aiohttp
+# (list) Application requirements (فقط پایتون و کیوی - بدون نیاز به aiohttp)
+requirements = python3,kivy
 
 # (str) Custom source directory for your project
 source.dir = .
