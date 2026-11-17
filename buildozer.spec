@@ -1,4 +1,5 @@
 [app]
+source.dir = .
 title = Turbo Scanner
 package.name = turboscanner
 package.domain = org.turboscanner
