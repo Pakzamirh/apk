@@ -45,6 +45,9 @@ android.ndk = 25b
 # (str) Android arch to build for
 android.archs = arm64-v8a
 
+# Automatically accept SDK licenses
+android.accept_sdk_license = True
+
 
 [buildozer]
 
